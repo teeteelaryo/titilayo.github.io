@@ -1,0 +1,188 @@
+body, html {
+    margin: 0px;
+    padding: 0px;
+
+}
+.titiHead {
+	height: 80px;
+	float: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: fixed;
+    z-index: 20;
+    background-color: #000;
+}
+.menuUl li {
+	font-size: 13px;
+	margin-top: 15px;
+	margin-left: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.menuUl li a {
+	height: 30px;
+	padding: 10px 10px 25px 10px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	color: #fff;
+}
+.menuUl li a:hover {
+		background: #32cf32;
+}
+.content{
+	float: left;
+    width: 100%;
+}
+.bigImg{
+    height: 90vh;
+	overflow: hidden;
+	background-size: cover;
+	background-repeat: none;
+	background-position: center center;
+	padding-top: 150px; 
+	padding-bottom: 37px;
+}
+.white{
+	color: white;
+	padding-top: 70px; 
+	padding-bottom: 50px;
+	margin-top: 50px;
+	margin-bottom :70px;
+	font-family: 'Raleway', sans-serif;
+
+}
+.firstImg{
+	height: 70vh;
+	overflow: hidden;
+	background-size: cover;
+	background-repeat: none;
+	background-position: center center;
+	padding-top: 150px; 
+	padding-bottom: 37px;
+	background-color: #32cf32;
+}
+.firstImg hr{
+	height:5%;
+	width: 50%;
+}
+.black{
+	color: #fff;	
+}
+.productText{
+   margin-bottom: 15px;
+   margin-top: 10px;
+   padding-top: 15px;
+   padding-bottom: 10px;
+   color: #000;
+   font-family: 'Raleway', sans-serif;
+}
+.first1{
+	height: 80vh;
+	padding-bottom: 30px;
+}
+.product figure img{
+	position: relative;
+    float: left;
+    width:  100%;
+    height: 300px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+ .myFooter{
+	background-color: #f1a436;
+	padding-top: 20px;
+	height: 50vh;
+}
+#home{
+	color: white;
+}
+.follow-section{
+	margin-top: 20px;
+	color: #D3D3D3;
+	margin-bottom: 10px;
+}
+.contact{
+	text-align: right;
+	float: right;
+}
+.input-box2{
+	width: 300px;
+}
+ .follow-section .form-control{
+ 	background-color: #808080;
+ 	border : 1px solid #808080;
+ 	
+ }
+.images{
+	width: 50px;
+	margin-right: 15px;
+}
+.copyright{
+	color: #A9A9A9;
+
+}
+#copy-p{
+	margin-top:20px;
+	font-size: 18px;
+}
+.Au{
+ height: 50vh;
+ background-color: #32cf32;
+ padding-top :40px;
+}
+.Text1{
+	color: #fff;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-top: 15px ;
+	margin-bottom: 10px;
+}
+.text2{
+	text-align: center;
+}
+.Ab hr{
+    height:5%;
+	width: 50%;	
+}
+.Img{
+	 height: 90vh;
+	overflow: hidden;
+	background-size: cover;
+	background-repeat: none;
+	background-position: center center;
+	padding-top: 150px; 
+	padding-bottom: 37px;
+}
+.text2{
+	color: #32cf32;
+}
+.text3{
+	color: #000;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-top: 15px ;
+	margin-bottom: 10px;
+
+
+}
+.produce figure img{
+	position: relative;
+    float: left;
+    width:  100%;
+    height: 350px;
+    background-position: 60% 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.white1{
+	color: white;
+	padding-top: 0px; 
+	padding-bottom: 60px;
+	margin-top: 0px;
+	margin-bottom :90px;
+	font-family: 'Raleway', sans-serif;
+}
